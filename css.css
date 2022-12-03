@@ -160,11 +160,11 @@ div.transbox p {
 
 div.homebox{
   background-color: rgba(100, 100, 100, 0.3);
-  width: 440px;
+  width: 400px;
   height: max-content;
-  
+  margin: 1%;
   border: 0px solid black;
-  border-radius:10px;
+  border-radius:9px;
   display: inline-block;
   vertical-align: top;
   overflow:visible;
